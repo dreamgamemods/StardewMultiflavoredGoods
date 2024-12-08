@@ -1,0 +1,9 @@
+﻿{
+  "Name": "MultiFlavor Goods Expansion",
+  "Author": "Dreamfisher",
+  "Version": "1.0.0",
+  "Description": "Framework for multi-step cooking of multi-flavored goods",
+  "UniqueID": "Dream.MultiFlavor",
+  "EntryDll": "MultiFlavor.dll",
+  "MinimumApiVersion": "4.1.0"
+}

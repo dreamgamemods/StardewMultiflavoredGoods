@@ -1,0 +1,9 @@
+F:\batdr_files\stardew_code\tmpmods\MultiflavoredGoodsFramework\bin\Debug\net6.0\MultiFlavor.deps.json
+F:\batdr_files\stardew_code\tmpmods\MultiflavoredGoodsFramework\bin\Debug\net6.0\MultiFlavor.dll
+F:\batdr_files\stardew_code\tmpmods\MultiflavoredGoodsFramework\obj\Debug\net6.0\MultiFlavor.csproj.AssemblyReference.cache
+F:\batdr_files\stardew_code\tmpmods\MultiflavoredGoodsFramework\obj\Debug\net6.0\MultiFlavor.GeneratedMSBuildEditorConfig.editorconfig
+F:\batdr_files\stardew_code\tmpmods\MultiflavoredGoodsFramework\obj\Debug\net6.0\MultiFlavor.AssemblyInfoInputs.cache
+F:\batdr_files\stardew_code\tmpmods\MultiflavoredGoodsFramework\obj\Debug\net6.0\MultiFlavor.AssemblyInfo.cs
+F:\batdr_files\stardew_code\tmpmods\MultiflavoredGoodsFramework\obj\Debug\net6.0\MultiFlavor.csproj.CoreCompileInputs.cache
+F:\batdr_files\stardew_code\tmpmods\MultiflavoredGoodsFramework\obj\Debug\net6.0\MultiFlavor.dll
+F:\batdr_files\stardew_code\tmpmods\MultiflavoredGoodsFramework\obj\Debug\net6.0\MultiFlavor.sourcelink.json
